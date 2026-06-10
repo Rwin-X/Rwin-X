@@ -1,4 +1,4 @@
-# Hi, I'm Rwin-X
+# Hi, I'm Rwin
 
 > Cybersecurity Student • Python Developer • Lifelong Learner
 
