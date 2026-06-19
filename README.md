@@ -103,6 +103,9 @@ $ cat /etc/profile.d/rwin.sh
 [✦] Obtain professional security certifications
 [✦] Document knowledge and share with the community
 [✦] Become a highly skilled cybersecurity professional
+[✦] Explore and create
+[✦] learn and fit in consistency
+[✦] no ego/only learn and share annonymosly
 ```
 
 ---
