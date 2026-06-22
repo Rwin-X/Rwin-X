@@ -67,24 +67,6 @@ $ cat /etc/profile.d/rwin.sh
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rwin&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwin&layout=compact&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="165" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rwin&theme=github-dark-blue&hide_border=true&border_radius=12&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🏆 Trophies
 
 <div align="center">
@@ -109,14 +91,6 @@ $ cat /etc/profile.d/rwin.sh
 ```
 
 ---
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rwin&bg_color=0d1117&color=00d4ff&line=00ff88&point=ffffff&area=true&area_color=00d4ff&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
-
-</div>
 
 ---
 
