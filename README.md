@@ -25,7 +25,7 @@ $ cat /etc/profile/rwin.sh
   Focus     →  Offensive Security · Network Defense · Automation
   OS        →  Linux/Windows
   Status    →  Building. Breaking. Learning. Repeating.
-  Motto     →  "Discipline over motivation/consistency/ascension
+  Motto     →  "Discipline over motivation/consistency/ascension"
 ```
 
 ---
