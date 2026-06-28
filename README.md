@@ -18,14 +18,14 @@
 ## `whoami`
 
 ```bash
-$ cat /etc/profile.d/rwin.sh
+$ cat /etc/profile/rwin.sh
 
   Name      →  Rwin
-  Role      →  Cybersecurity Student & Python Developer
+  Role      →  Cybersecurity Student & Python Developer & the creator
   Focus     →  Offensive Security · Network Defense · Automation
-  OS        →  Linux (always)
+  OS        →  Linux/Windows
   Status    →  Building. Breaking. Learning. Repeating.
-  Motto     →  "Discipline over motivation."
+  Motto     →  "Discipline over motivation/consistency/ascension
 ```
 
 ---
