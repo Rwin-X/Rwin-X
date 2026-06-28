@@ -67,11 +67,6 @@ $ cat /etc/profile/rwin.sh
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rwin&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" alt="GitHub Trophies"/>
 
 </div>
 
