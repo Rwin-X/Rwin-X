@@ -83,6 +83,7 @@ $ cat /etc/profile/rwin.sh
 [✦] Explore and create
 [✦] learn and fit in consistency
 [✦] no ego/only learn and share annonymosly
+[✦] focus on the showing up all days (consistency)
 ```
 
 ---
