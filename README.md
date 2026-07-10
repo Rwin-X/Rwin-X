@@ -82,7 +82,7 @@ $ cat /etc/profile/rwin.sh
 [✦] Become a highly skilled cybersecurity professional
 [✦] Explore and create
 [✦] learn and fit in consistency
-[✦] no ego/only learn and share annonymosly
+[✦] no ego/only learn and share anonymously
 [✦] focus on the showing up all days (consistency)
 ```
 
